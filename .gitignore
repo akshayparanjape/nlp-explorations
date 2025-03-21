@@ -1,0 +1,7 @@
+results/*
+mlruns/*
+logs/*
+data/*
+sms_data/*
+*.pyc
+*.zip
